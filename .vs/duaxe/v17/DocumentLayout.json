@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{895E2168-E40F-462D-A141-A7DB1C15065A}|duaxe\\duaxe.csproj|C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895E2168-E40F-462D-A141-A7DB1C15065A}|duaxe\\duaxe.csproj|solutionrelative:duaxe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895E2168-E40F-462D-A141-A7DB1C15065A}|duaxe\\duaxe.csproj|c:\\users\\admin\\downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895E2168-E40F-462D-A141-A7DB1C15065A}|duaxe\\duaxe.csproj|solutionrelative:duaxe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895E2168-E40F-462D-A141-A7DB1C15065A}|duaxe\\duaxe.csproj|C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895E2168-E40F-462D-A141-A7DB1C15065A}|duaxe\\duaxe.csproj|solutionrelative:duaxe\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895E2168-E40F-462D-A141-A7DB1C15065A}|duaxe\\duaxe.csproj|C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895E2168-E40F-462D-A141-A7DB1C15065A}|duaxe\\duaxe.csproj|solutionrelative:duaxe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895E2168-E40F-462D-A141-A7DB1C15065A}|duaxe\\duaxe.csproj|C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{895E2168-E40F-462D-A141-A7DB1C15065A}|duaxe\\duaxe.csproj|solutionrelative:duaxe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895E2168-E40F-462D-A141-A7DB1C15065A}|duaxe\\duaxe.csproj|C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895E2168-E40F-462D-A141-A7DB1C15065A}|duaxe\\duaxe.csproj|solutionrelative:duaxe\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895E2168-E40F-462D-A141-A7DB1C15065A}|duaxe\\duaxe.csproj|C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{895E2168-E40F-462D-A141-A7DB1C15065A}|duaxe\\duaxe.csproj|solutionrelative:duaxe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\Form2.cs",
+              "RelativeDocumentMoniker": "duaxe\\Form2.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\Form2.cs",
+              "RelativeToolTip": "duaxe\\Form2.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAAwLQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:39:01.684Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\Program.cs",
+              "RelativeDocumentMoniker": "duaxe\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\Program.cs",
+              "RelativeToolTip": "duaxe\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:50:50.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "duaxe\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\Form1.Designer.cs",
+              "RelativeToolTip": "duaxe\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:38:38.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "duaxe\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\Form2.Designer.cs",
+              "RelativeToolTip": "duaxe\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:38:32.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\Form2.cs",
+              "RelativeDocumentMoniker": "duaxe\\Form2.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\Form2.cs [Design]",
+              "RelativeToolTip": "duaxe\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:27:11.323Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\Form1.cs",
+              "RelativeDocumentMoniker": "duaxe\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\Form1.cs",
+              "RelativeToolTip": "duaxe\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:32:36.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\Form1.cs",
+              "RelativeDocumentMoniker": "duaxe\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\duaxebkt\\duaxe\\duaxe\\duaxe\\duaxe\\Form1.cs [Design]",
+              "RelativeToolTip": "duaxe\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:16:28.008Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
